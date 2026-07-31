@@ -8,7 +8,6 @@ class Solution {
         int water = 0;
 
         while (left < right) {
-
             if (leftMax < rightMax) {
                 left++;
                 leftMax= Math.max(leftMax,height[left]);
