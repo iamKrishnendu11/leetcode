@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamKrishnendu11/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
