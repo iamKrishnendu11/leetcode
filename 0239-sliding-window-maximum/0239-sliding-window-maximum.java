@@ -4,7 +4,7 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n - k + 1];
 
-        Deque<Integer> dq = new ArrayDeque<>();
+        Deque<Integer> dq = new LinkedList<>();
 
         int index = 0;
 
