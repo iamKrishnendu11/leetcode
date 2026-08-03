@@ -30,3 +30,9 @@ class Solution {
         return count;
     }
 }
+
+/* totalCount(nums, k) = number of subarrays with at most k distinct integers.
+
+totalCount(nums, k - 1) = number of subarrays with at most (k-1) distinct integers.
+
+Subtracting them leaves only the subarrays with exactly k distinct integers */
