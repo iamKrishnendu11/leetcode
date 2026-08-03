@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamKrishnendu11/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
@@ -86,14 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
