@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/iamKrishnendu11/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/iamKrishnendu11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/iamKrishnendu11/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/iamKrishnendu11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/iamKrishnendu11/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/iamKrishnendu11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
