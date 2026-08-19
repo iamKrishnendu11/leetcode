@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/iamKrishnendu11/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/iamKrishnendu11/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
 ## Stack
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
