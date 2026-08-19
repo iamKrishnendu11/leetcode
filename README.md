@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/iamKrishnendu11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/iamKrishnendu11/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
 ## Stack
