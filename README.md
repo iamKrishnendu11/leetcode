@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
