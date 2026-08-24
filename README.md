@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/iamKrishnendu11/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/iamKrishnendu11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/iamKrishnendu11/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
