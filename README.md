@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/iamKrishnendu11/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/iamKrishnendu11/leetcode/tree/master/0191-number-of-1-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamKrishnendu11/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/iamKrishnendu11/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
