@@ -9,8 +9,8 @@ class Solution {
             if(left != right){
                     return isPalindrome(s,start+1,end) || isPalindrome(s,start, end-1);
                 }
-                start++;
-                end--;
+                else{start++;
+                end--;}
             
             }
             return true;
