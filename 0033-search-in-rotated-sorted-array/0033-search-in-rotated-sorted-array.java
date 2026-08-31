@@ -18,29 +18,37 @@ class Solution {
 
     }
 
-    int findPivot(int[] arr){
-        int start =0;
-        int end = arr.length -1;
-        while(start <= end){
-            int mid = (start + end ) / 2;
-            // case 1
-            if(mid < end && arr[mid] > arr[mid + 1]){
-                return mid;
-            }
-            // case 2
-            if (mid > start && arr[mid] < arr[mid-1]) {
-                return mid-1;
-            }
-            // case 3
-            if(arr[mid] <= arr[start]){
-                end = mid-1;
-            } else {
-                start = mid + 1;
-            }
+    int findPivot(int[] arr) {
+
+    int start = 0;
+    int end = arr.length - 1;
+
+    while (start <= end) {
+
+        int mid = start + (end - start) / 2;
+
+        // Case 1: mid is pivot
+        if (mid < end && arr[mid] > arr[mid + 1]) {
+            return mid;
         }
-        return -1;
+
+        // Case 2: element before mid is pivot
+        if (mid > start && arr[mid] < arr[mid - 1]) {
+            return mid - 1;
+        }
+
+        // Search right
+        if (arr[mid] >= arr[start]) {
+            start = mid + 1;
+        }
+        // Search left
+        else {
+            end = mid - 1;
+        }
     }
 
+    return -1;
+}
     int binary(int[] arr, int key, int start, int end){
 
         while (start <= end){
