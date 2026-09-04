@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/iamKrishnendu11/leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamKrishnendu11/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/iamKrishnendu11/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamKrishnendu11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/iamKrishnendu11/leetcode/tree/master/0704-binary-search) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iamKrishnendu11/leetcode/tree/master/0191-number-of-1-bits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/iamKrishnendu11/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
