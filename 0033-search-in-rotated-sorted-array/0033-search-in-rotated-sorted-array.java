@@ -28,12 +28,12 @@ class Solution {
         int mid = start + (end - start) / 2;
 
         // Case 1: mid is pivot
-        if (mid < end && arr[mid] > arr[mid + 1]) {
+        if (mid<end && arr[mid] > arr[mid + 1]) {
             return mid;
         }
 
         // Case 2: element before mid is pivot
-        if (mid > start && arr[mid] < arr[mid - 1]) {
+        if (start<mid && arr[mid] < arr[mid - 1]) {
             return mid - 1;
         }
 
