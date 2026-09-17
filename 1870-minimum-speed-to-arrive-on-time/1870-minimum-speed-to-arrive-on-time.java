@@ -27,4 +27,4 @@ class Solution {
         }
         return time<=hour;
     }
-}
+} 
