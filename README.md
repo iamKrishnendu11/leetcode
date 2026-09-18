@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/1314-matrix-block-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iamKrishnendu11/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/iamKrishnendu11/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/iamKrishnendu11/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
