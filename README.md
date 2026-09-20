@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/1314-matrix-block-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iamKrishnendu11/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/iamKrishnendu11/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/iamKrishnendu11/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/iamKrishnendu11/leetcode/tree/master/0169-majority-element) |
+| [1552-magnetic-force-between-two-balls](https://github.com/iamKrishnendu11/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/iamKrishnendu11/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iamKrishnendu11/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/iamKrishnendu11/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
