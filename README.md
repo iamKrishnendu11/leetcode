@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/iamKrishnendu11/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/1314-matrix-block-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iamKrishnendu11/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/iamKrishnendu11/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/iamKrishnendu11/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/iamKrishnendu11/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/iamKrishnendu11/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/iamKrishnendu11/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 ## Sliding Window
