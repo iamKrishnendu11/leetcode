@@ -6,20 +6,25 @@ class Solution {
 
         while (left < right) {
 
-            // left should find an odd number
-            while (left < right && nums[left] % 2 == 0) {
+            if (nums[left] % 2 == 0) {
+                // left is already correct
                 left++;
             }
-
-            // right should find an even number
-            while (left < right && nums[right] % 2 != 0) {
+            else if (nums[right] % 2 != 0) {
+                // right is already correct
                 right--;
             }
+            else {
+                // left is odd and right is even
+                // so swap them
 
-            // swap
-            int temp = nums[left];
-            nums[left] = nums[right];
-            nums[right] = temp;
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+
+                left++;
+                right--;
+            }
         }
 
         return nums;
