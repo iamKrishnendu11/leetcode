@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/iamKrishnendu11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/iamKrishnendu11/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/iamKrishnendu11/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/iamKrishnendu11/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/iamKrishnendu11/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/iamKrishnendu11/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -152,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
