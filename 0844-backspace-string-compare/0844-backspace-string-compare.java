@@ -5,7 +5,8 @@ class Solution {
         Stack<Character> stack2 = new Stack<>();
 
         // Process s
-        for (char ch : s.toCharArray()) {
+         for ( int i=0; i<s.length(); i++) {
+             char ch = s.charAt(i);
 
             if (ch == '#') {
                 if (!stack1.isEmpty()) {
@@ -18,7 +19,8 @@ class Solution {
         }
 
         // Process t
-        for (char ch : t.toCharArray()) {
+         for ( int i=0; i<t.length(); i++) {
+             char ch = t.charAt(i);
 
             if (ch == '#') {
                 if (!stack2.isEmpty()) {
