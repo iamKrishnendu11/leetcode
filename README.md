@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/iamKrishnendu11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/iamKrishnendu11/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2540-minimum-common-value](https://github.com/iamKrishnendu11/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/iamKrishnendu11/leetcode/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/iamKrishnendu11/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/iamKrishnendu11/leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/iamKrishnendu11/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -287,4 +290,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/iamKrishnendu11/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/iamKrishnendu11/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
