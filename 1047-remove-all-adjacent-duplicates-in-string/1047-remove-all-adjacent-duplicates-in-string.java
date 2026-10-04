@@ -4,7 +4,8 @@ class Solution {
 
         StringBuilder stack = new StringBuilder();
 
-        for (char ch : s.toCharArray()) {
+         for ( int i=0; i<s.length(); i++) {
+             char ch = s.charAt(i);
 
             // If top is same as current character
             if (stack.length() > 0 &&
