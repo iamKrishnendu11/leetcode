@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/iamKrishnendu11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iamKrishnendu11/leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamKrishnendu11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/iamKrishnendu11/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/iamKrishnendu11/leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/iamKrishnendu11/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
