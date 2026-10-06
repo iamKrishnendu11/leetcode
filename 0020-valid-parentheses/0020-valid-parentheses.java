@@ -1,22 +1,43 @@
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        HashMap<Character,Character> map = new HashMap<>();
-        map.put(')','(');
-        map.put('}','{');
-        map.put(']','[');
-        for ( int i=0; i<s.length(); i++) {
-             char ch = s.charAt(i);
-             if(map.containsKey(ch)){
 
-                if(stack.isEmpty() || stack.pop() != map.get(ch)){
+        Stack<Character> stack = new Stack<>();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            // Opening brackets
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            }
+
+            // Closing brackets
+            else {
+
+                if (stack.isEmpty()) {
                     return false;
                 }
 
-             }else{
-                stack.push(ch);
-             }
+                char top = stack.pop();
+
+                if (ch == ')' && top != '(') {
+                    return false;
+                }
+
+                if (ch == '}' && top != '{') {
+                    return false;
+                }
+
+                if (ch == ']' && top != '[') {
+                    return false;
+                }
+            }
         }
+
+        // Stack should be empty at the end
         return stack.isEmpty();
     }
 }
