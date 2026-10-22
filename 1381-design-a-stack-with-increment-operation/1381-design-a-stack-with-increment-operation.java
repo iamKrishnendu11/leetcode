@@ -27,6 +27,8 @@ class CustomStack {
             return -1;
         }
 
+        else{
+
         int val = stack[idx] + inc[idx];
 
         if (idx > 0) {
@@ -37,6 +39,7 @@ class CustomStack {
         idx--;
 
         return val;
+        }
     }
 
     public void increment(int k, int val) {
