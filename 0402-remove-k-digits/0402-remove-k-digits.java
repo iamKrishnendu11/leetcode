@@ -20,7 +20,7 @@ class Solution {
 
         while(start< sb.length() && sb.charAt(start) == '0'){
             start++;
-        }
+        } // to remove staring zeros from answer
 
         String ans = sb.substring(start);
         return ans.isEmpty() ? "0" : ans;
