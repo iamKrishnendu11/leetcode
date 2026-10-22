@@ -17,9 +17,9 @@ class CustomStack {
         if (idx == maxSize - 1) {
             return;
         }
-
+        else{
         idx++;
-        stack[idx] = x;
+        stack[idx] = x;}
     }
 
     public int pop() {
