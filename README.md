@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamKrishnendu11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamKrishnendu11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/iamKrishnendu11/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamKrishnendu11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamKrishnendu11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/iamKrishnendu11/leetcode/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamKrishnendu11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/iamKrishnendu11/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamKrishnendu11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamKrishnendu11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/iamKrishnendu11/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/iamKrishnendu11/leetcode/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/iamKrishnendu11/leetcode/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamKrishnendu11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
