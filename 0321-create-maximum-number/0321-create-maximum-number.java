@@ -24,27 +24,29 @@ class Solution {
 
     // Step 1: Find the maximum subsequence of length k
     private int[] maxSubsequence(int[] nums, int k) {
-        int[] stack = new int[k];
-        int top = 0;
-        int drop = nums.length - k;
+    int[] stack = new int[k];
+    int top = 0;
+    int drop = nums.length - k;
 
-        for (int num : nums) {
-            while (top > 0 && drop > 0
-                    && stack[top - 1] < num) {
-                top--;
-                drop--;
-            }
+    for (int num : nums) {
 
-            if (top < k) {
-                stack[top++] = num;
-            } else {
-                drop--;
-            }
+        // Remove smaller digits
+        while (top > 0 && drop > 0 && stack[top - 1] < num) {
+            top--;
+            drop--;
         }
 
-        return stack;
+        // Add current digit if space is available
+        if (top < k) {
+            stack[top] = num;
+            top++;
+        } else {
+            drop--;
+        }
     }
 
+    return stack;
+}
     // Step 2: Merge two subsequences
     private int[] merge(int[] a, int[] b) {
         int[] result = new int[a.length + b.length];
@@ -52,9 +54,11 @@ class Solution {
 
         for (int r = 0; r < result.length; r++) {
             if (greater(a, i, b, j)) {
-                result[r] = a[i++];
+                result[r] = a[i];
+                i++;
             } else {
-                result[r] = b[j++];
+                result[r] = b[j];
+                j++;
             }
         }
 
