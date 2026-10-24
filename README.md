@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/iamKrishnendu11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/iamKrishnendu11/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/iamKrishnendu11/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/iamKrishnendu11/leetcode/tree/master/0486-predict-the-winner) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamKrishnendu11/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/iamKrishnendu11/leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/iamKrishnendu11/leetcode/tree/master/0647-palindromic-substrings) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/iamKrishnendu11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/iamKrishnendu11/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/iamKrishnendu11/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/iamKrishnendu11/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/iamKrishnendu11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/iamKrishnendu11/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/iamKrishnendu11/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/iamKrishnendu11/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iamKrishnendu11/leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/iamKrishnendu11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/iamKrishnendu11/leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/iamKrishnendu11/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/iamKrishnendu11/leetcode/tree/master/0739-daily-temperatures) |
