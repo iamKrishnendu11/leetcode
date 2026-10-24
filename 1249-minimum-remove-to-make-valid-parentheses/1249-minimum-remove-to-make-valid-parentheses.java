@@ -28,7 +28,7 @@ class Solution {
 
             if (ch == '(' && open > 0) {
                 open--;
-                continue;
+    
             }
             else{
             result.append(ch);}
