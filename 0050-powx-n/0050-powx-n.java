@@ -10,7 +10,7 @@ class Solution {
         }
 
         if (n < 0) {
-            return 1.0 / myPow(x, -(n + 1)) / x;
+            return (1.0  / myPow(x, -(n + 1))) /x;
         }
 
         double half = myPow(x, n / 2);
