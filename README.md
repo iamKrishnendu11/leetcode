@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/iamKrishnendu11/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/iamKrishnendu11/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/iamKrishnendu11/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/iamKrishnendu11/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/iamKrishnendu11/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iamKrishnendu11/leetcode/tree/master/0202-happy-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/iamKrishnendu11/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/iamKrishnendu11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/iamKrishnendu11/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/iamKrishnendu11/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamKrishnendu11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/iamKrishnendu11/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/iamKrishnendu11/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/iamKrishnendu11/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iamKrishnendu11/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iamKrishnendu11/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
